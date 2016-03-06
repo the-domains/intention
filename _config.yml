@@ -1,7 +1,7 @@
 name: intention
 favicon: null
-layout_spectrum: 0.2968576441053301
-typography_spectrum: 0.3178328308276832
+layout_spectrum: 0.4928
+typography_spectrum: 0.50899
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7047891798429191
+  brandStrength: 0.5
   lightness: 0.6835455358959734
-  saturation: 0.38981454726308584
+  saturation: 0.5625
   rhythmicContrast: 0.024723384995013475
 purpose: []
